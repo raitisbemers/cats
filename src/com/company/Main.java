@@ -10,7 +10,9 @@ public class Main {
         CatOwner catOwner = new CatOwner();
         catOwner.setOwnerName("Anna");
         catOwner.setPersonId("87-234");
-        catOwner.setPhone("33333");
+        catOwner.setPhone("4444");
+
+
        // DateFormat dateFormat = DateFormat.getDateInstance(DateFormat.DATE_FIELD);
 
         Date date = new Date(1574, 11, 6 );
